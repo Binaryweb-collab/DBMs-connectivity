@@ -28,6 +28,8 @@ cd <your-repo-folder>
 2. Install Dependencies
 
 npm init -y
+
+
 npm install express cors mysql body-parser
 
 3. Setup MySQL Database
